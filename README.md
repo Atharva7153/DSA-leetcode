@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Atharva7153/DSA-leetcode/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva7153/DSA-leetcode/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Atharva7153/DSA-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
