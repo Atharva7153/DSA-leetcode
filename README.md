@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Atharva7153/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Atharva7153/DSA-leetcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Atharva7153/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Atharva7153/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharva7153/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Atharva7153/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Atharva7153/DSA-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Atharva7153/DSA-leetcode/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/Atharva7153/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,5 +66,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Atharva7153/DSA-leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Atharva7153/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva7153/DSA-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Atharva7153/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
