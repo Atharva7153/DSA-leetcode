@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva7153/DSA-leetcode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Atharva7153/DSA-leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Atharva7153/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Atharva7153/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Atharva7153/DSA-leetcode/tree/master/0136-single-number) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Atharva7153/DSA-leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Atharva7153/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/Atharva7153/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Atharva7153/DSA-leetcode/tree/master/0283-move-zeroes) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Atharva7153/DSA-leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Atharva7153/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Atharva7153/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Atharva7153/DSA-leetcode/tree/master/0229-majority-element-ii) |
