@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Atharva7153/DSA-leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Atharva7153/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Atharva7153/DSA-leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Atharva7153/DSA-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Atharva7153/DSA-leetcode/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Atharva7153/DSA-leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Atharva7153/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Atharva7153/DSA-leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Atharva7153/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Atharva7153/DSA-leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Atharva7153/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Atharva7153/DSA-leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
